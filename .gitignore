@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+admin-dashboard/node_modules/
+admin-dashboard/dist/
+.env
